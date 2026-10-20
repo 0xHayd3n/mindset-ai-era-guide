@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "id": "attachment",
+      "type": "user_supplied_publisher_pdf",
+      "filename": "AJBSR.MS.ID.003878.pdf",
+      "pages": 6,
+      "role": "Primary textual source; actual attachment read in full through Library",
+      "retrieved_at": "2026-10-20",
+      "private_identifier_published": false
+    },
+    {
+      "id": "publisher-pdf",
+      "type": "official_public_publisher_pdf",
+      "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf",
+      "pages": 6,
+      "role": "Public source links and Figure 1 visual inspection; matching edition metadata",
+      "retrieved_at": "2026-10-20",
+      "sha256": "3da90b002e34bf229e5fc37161cef40bf75698c517253b17454750a2d354bd57",
+      "size_bytes": 553454,
+      "attachment_binary_equality_verified": false
+    },
+    {
+      "id": "doi",
+      "type": "persistent_identifier",
+      "url": "https://doi.org/10.34297/AJBSR.2026.30.003878",
+      "role": "Bibliographic DOI printed in attachment; DOI resolver was not accessible through web retrieval when checked",
+      "checked_at": "2026-10-20"
+    }
+  ],
+  "secondary_reference_audit": {
+    "all_13_mapped": true,
+    "independent_contents_audit": false,
+    "note": "Source list is mapped in docs/05-paper-map-and-references.md. Bibliographic gaps are not silently repaired."
+  }
+}

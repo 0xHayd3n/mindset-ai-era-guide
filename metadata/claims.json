@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0.0",
+  "paper_edition": "published-2026-02-04",
+  "note": "Navigation index distinguishing proposals, assertions, illustrations, disclosures, and secondary statistics. No empirical findings produced here.",
+  "empirical_results": [],
+  "claims": [
+    {
+      "id": "seven-pillars",
+      "kind": "conceptual_proposal",
+      "statement": "The author proposes seven habits for purposeful and responsible work with AI.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 1,
+          "section": "Abstract and introduction",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=1"
+        },
+        {
+          "source_id": "publisher-pdf",
+          "page": 2,
+          "section": "Figure 1",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=2"
+        }
+      ],
+      "qualifications": [
+        "Not experimentally validated in this article."
+      ]
+    },
+    {
+      "id": "workforce-scenarios",
+      "kind": "scenario_framing",
+      "statement": "The introduction describes four workforce scenarios and favors gradual human-AI collaboration.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 1,
+          "section": "Introduction",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=1"
+        }
+      ],
+      "qualifications": [
+        "No scenario probabilities or outcome measurements are supplied."
+      ]
+    },
+    {
+      "id": "curiosity",
+      "kind": "conceptual_proposal",
+      "statement": "Pillar 1 recommends active inquiry into AI outputs, assumptions, and limitations.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 2,
+          "section": "Pillar 1",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=2"
+        }
+      ],
+      "qualifications": []
+    },
+    {
+      "id": "purposeful-adaptation",
+      "kind": "conceptual_proposal",
+      "statement": "Pillar 2 recommends changing methods toward lasting purpose, using business and biological analogies.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 2,
+          "section": "Pillar 2",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=2"
+        },
+        {
+          "source_id": "publisher-pdf",
+          "page": 3,
+          "section": "Pillar 2 remark",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=3"
+        }
+      ],
+      "qualifications": [
+        "Analogies do not establish causal benefits."
+      ]
+    },
+    {
+      "id": "systems-thinking",
+      "kind": "conceptual_proposal",
+      "statement": "Pillar 3 urges attention to interconnected components, external changes, and long-term consequences.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 3,
+          "section": "Pillar 3",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=3"
+        }
+      ],
+      "qualifications": []
+    },
+    {
+      "id": "human-ai-boundary",
+      "kind": "author_assertion",
+      "statement": "The author asserts that human strategic and contextual contributions cannot be replicated by AI.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 3,
+          "section": "Pillars 3 and 5",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=3"
+        },
+        {
+          "source_id": "publisher-pdf",
+          "page": 4,
+          "section": "Pillar 6",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=4"
+        }
+      ],
+      "qualifications": [
+        "Not a demonstrated universal capability boundary; no comparative evaluation is reported."
+      ]
+    },
+    {
+      "id": "outcomes",
+      "kind": "conceptual_proposal",
+      "statement": "Pillar 4 recommends defining the desired result before selecting a tool.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 3,
+          "section": "Pillar 4",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=3"
+        }
+      ],
+      "qualifications": []
+    },
+    {
+      "id": "intake-target",
+      "kind": "illustration",
+      "statement": "The source uses a 60% intake-processing-time reduction in 90 days as an illustrative team target.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 3,
+          "section": "Pillar 4",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=3"
+        }
+      ],
+      "qualifications": [
+        "Not achieved performance, a study finding, or framework validation."
+      ]
+    },
+    {
+      "id": "collaboration",
+      "kind": "conceptual_proposal",
+      "statement": "Pillar 5 describes delegation, context provision, checking, and human orchestration in AI collaboration.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 3,
+          "section": "Pillar 5",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=3"
+        }
+      ],
+      "qualifications": [
+        "Teammate is a metaphor and does not transfer human responsibility to software."
+      ]
+    },
+    {
+      "id": "stewardship",
+      "kind": "conceptual_proposal",
+      "statement": "Pillar 6 emphasizes verification, transparency, human impact, and long-term stewardship.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 4,
+          "section": "Pillar 6",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=4"
+        }
+      ],
+      "qualifications": [
+        "Broad technical explanations of LLMs are not comparative empirical results."
+      ]
+    },
+    {
+      "id": "building",
+      "kind": "conceptual_proposal",
+      "statement": "Pillar 7 combines the other habits to encourage new architectures, governance arrangements, products, and business models.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 4,
+          "section": "Pillar 7 and conclusions",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=4"
+        }
+      ],
+      "qualifications": [
+        "Novelty is not evidence of benefit."
+      ]
+    },
+    {
+      "id": "implementation-engineer",
+      "kind": "illustration",
+      "statement": "The author uses AI Implementation Engineers / Forward Deploy Engineers as an example of practical human implementation work.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 5,
+          "section": "Example of a new job and duties",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=5"
+        }
+      ],
+      "qualifications": [
+        "Not a standardized occupation definition or measured seven-pillar intervention."
+      ]
+    },
+    {
+      "id": "demand-statistic",
+      "kind": "unverified_secondary_statistic",
+      "statement": "The article repeats an 800% demand increase over January-September, described as nine months 'of this year'.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 5,
+          "section": "Demand for Work",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=5"
+        }
+      ],
+      "qualifications": [
+        "Cites author reflection [10] from 2025; article published February 2026, so year wording is ambiguous.",
+        "No dataset, baseline count, geography, role definition, or reproducible calculation in this article.",
+        "Not independently endorsed here; not evidence that the framework caused job growth."
+      ]
+    },
+    {
+      "id": "article-disclosures",
+      "kind": "source_disclosure",
+      "statement": "Acknowledgment and conflict-of-interest sections both state none.",
+      "sources": [
+        {
+          "source_id": "publisher-pdf",
+          "page": 5,
+          "section": "Acknowledgment; Conflict of Interest",
+          "url": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf#page=5"
+        }
+      ],
+      "qualifications": [
+        "Author/publisher statements, not an independently audited finding."
+      ]
+    }
+  ],
+  "pillar_coverage": [
+    {
+      "pillar": 1,
+      "claim_id": "curiosity"
+    },
+    {
+      "pillar": 2,
+      "claim_id": "purposeful-adaptation"
+    },
+    {
+      "pillar": 3,
+      "claim_id": "systems-thinking"
+    },
+    {
+      "pillar": 4,
+      "claim_id": "outcomes"
+    },
+    {
+      "pillar": 5,
+      "claim_id": "collaboration"
+    },
+    {
+      "pillar": 6,
+      "claim_id": "stewardship"
+    },
+    {
+      "pillar": 7,
+      "claim_id": "building"
+    }
+  ]
+}

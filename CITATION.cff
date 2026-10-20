@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite the original article for its framework. This is an unofficial reading companion."
+title: "MINDSET in the AI Era Guide: unofficial reading companion"
+type: software
+authors:
+  - name: "0xHayd3n"
+repository-code: "https://github.com/0xHayd3n/mindset-ai-era-guide"
+url: "https://github.com/0xHayd3n/mindset-ai-era-guide"
+license: CC-BY-4.0
+date-released: "2026-10-20"
+preferred-citation:
+  type: article
+  title: "7 Pillars for MINDSET in the AI - Era"
+  authors:
+    - given-names: "Jorge"
+      family-names: "Garza Ulloa"
+  journal: "American Journal of Biomedical Science & Research"
+  volume: 30
+  issue: 1
+  start: 947
+  end: 952
+  year: 2026
+  month: 2
+  date-published: "2026-02-04"
+  doi: "10.34297/AJBSR.2026.30.003878"
+  url: "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf"
+  notes: "Review Article, AJBSR.MS.ID.003878. Conceptual framework; not an experimental validation study."

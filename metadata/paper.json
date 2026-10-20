@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0.0",
+  "title": "7 Pillars for MINDSET in the AI - Era",
+  "authors": [
+    {
+      "given": "Jorge",
+      "family": "Garza Ulloa",
+      "name": "Jorge Garza Ulloa",
+      "name_variants_in_source": [
+        "Jorge Garza-Ulloa",
+        "Dr. Jorge Garza-Ulloa"
+      ],
+      "corresponding": true,
+      "affiliation_as_printed": "Research Consulting Services, University of Texas El Paso, USA"
+    }
+  ],
+  "journal": "American Journal of Biomedical Science & Research",
+  "volume": 30,
+  "issue": 1,
+  "printed_pages": {
+    "start": 947,
+    "end": 952
+  },
+  "article_id": "AJBSR.MS.ID.003878",
+  "doi": "10.34297/AJBSR.2026.30.003878",
+  "received": "2026-01-27",
+  "published": "2026-02-04",
+  "source_edition": "published-2026-02-04",
+  "publisher_article_type": "Review Article",
+  "evidence_type": "conceptual_and_prescriptive_framework",
+  "page_count": 6,
+  "appendices": [],
+  "figures": [
+    {
+      "number": 1,
+      "page": 2,
+      "kind": "conceptual illustration",
+      "data_plot": false
+    }
+  ],
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "verified_via": "Attachment PDF page 1 license notice"
+  },
+  "urls": {
+    "doi": "https://doi.org/10.34297/AJBSR.2026.30.003878",
+    "publisher_pdf": "https://biomedgrid.com/pdf/AJBSR.MS.ID.003878.pdf"
+  },
+  "disclosures": {
+    "acknowledgment_as_printed": "None",
+    "conflict_of_interest_as_printed": "None",
+    "funding_statement": "No separate funding declaration in the source",
+    "independently_audited": false
+  },
+  "provenance": {
+    "checked_at": "2026-10-20",
+    "attachment_filename": "AJBSR.MS.ID.003878.pdf",
+    "attachment_size_bytes": 553454,
+    "attachment_text_read": "Complete text through Library, six pages",
+    "figure_inspection": "Figure 1 visually inspected in official public publisher PDF",
+    "public_pdf_size_bytes": 553454,
+    "public_pdf_sha256": "3da90b002e34bf229e5fc37161cef40bf75698c517253b17454750a2d354bd57",
+    "attachment_binary_equality_verified": false,
+    "match_basis": [
+      "Exact filename",
+      "Title",
+      "Sole author",
+      "DOI",
+      "Six-page length",
+      "553454-byte size"
+    ],
+    "public_url_is_versioned": false,
+    "pdf_redistributed": false,
+    "full_text_redistributed": false,
+    "original_figures_redistributed": false
+  },
+  "companion": {
+    "repository_name": "mindset-ai-era-guide",
+    "maintainer": "0xHayd3n",
+    "ai_assistance": true,
+    "status": "unofficial reading companion",
+    "experiments_run": false,
+    "implementation_reproduced": false,
+    "framework_validation_claimed": false,
+    "original_material_license_spdx": "CC-BY-4.0"
+  }
+}
