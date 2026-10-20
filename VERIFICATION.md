@@ -22,4 +22,12 @@ The preparation run passed: **20 files, 67 local links, 48 PDF-page links, 58 ex
 
 ## Publication verification
 
-The publishing agent verifies the public repository visibility, description, branch contents, clean Git state, and remote/local commit agreement after upload. A published commit is the authoritative record; this preparation note does not itself assert an upload occurred.
+Published on 2026-10-20 from **HaydenPC** to https://github.com/0xHayd3n/mindset-ai-era-guide.
+
+- GitHub reported `PUBLIC`, `isPrivate: false`, default branch `main`, and the intended full description.
+- An unauthenticated GitHub REST metadata request returned HTTP 200, `private: false`, and `visibility: public`.
+- A fresh clone of initial published commit `621743b12d2521be6447ee93cf3db8d3787a541b` matched all 20 published files, normalizing only Windows line endings. Authored and cloned commit IDs agreed; the authored working tree was clean.
+- The checker passed on the fresh published clone with the counts above. Both CFF files across the assigned guides parsed as YAML; the public MINDSET PDF hash was independently recalculated and matched the recorded public-source hash.
+- Independent textual source review found no substantive factual, attribution, coverage, or copyright issue. The sole original figure was also visually inspected; it is conceptual.
+
+These are repository and document checks, not validation of the framework or an audit of every underlying reference. Attachment/public byte equality remains unestablished.
